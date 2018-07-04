@@ -13,6 +13,7 @@ Implementación del juego Space Invaders usando patrones de diseños, en el leng
 #### Problema:
 * El cliente necesita una interfaz simplicada para la funcionalidad general del subsistema complejo.
 #### Diagrama:
+![facade1](https://user-images.githubusercontent.com/38145376/42285314-d45ac424-7f74-11e8-9d61-f386dd1bdcfc.png)
 
 
 
