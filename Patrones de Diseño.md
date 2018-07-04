@@ -22,6 +22,7 @@
 #### Problema:
 * Hay un problema de bloqueo en el enlace en tiempo de compilación entre la interfaz y la impleentación. La abstracción y la implementación no se pueden extender o componer independientemente.
 #### Diagrama:
+![bridge](https://user-images.githubusercontent.com/38145376/42285397-1ede2874-7f75-11e8-8bd9-3f94a38eb46c.png)
 
 
 ## Abstract Factory
