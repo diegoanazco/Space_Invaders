@@ -32,4 +32,5 @@
 #### Problema: 
 * Si una aplicación debe ser portátil, debe encapsular las dependencias de la plataforma. Con demasiada frecuencia, esta encapsulación no está diseñada de antemano, y muchas declaraciones de "ifdef" comienzan a definirse demasiadas veces en todo el código.
 #### Diagrama:
+![abstract_factory](https://user-images.githubusercontent.com/38145376/42285453-4bdf9998-7f75-11e8-9fa5-f74206d1aa97.png)
 
