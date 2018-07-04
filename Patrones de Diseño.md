@@ -34,3 +34,12 @@
 #### Diagrama:
 ![abstract_factory](https://user-images.githubusercontent.com/38145376/42285453-4bdf9998-7f75-11e8-9fa5-f74206d1aa97.png)
 
+
+
+## Flyweight
+#### Intención:
+* Se usa para admitir una gran cantidad de objetos de pequeño tamaño de manera eficiente.
+#### Problema:
+* Diseñar objetos hasta los niveles más bajos de "granularidad" del sistema proporciona una flexibilidad óptima, pero puede ser inaceptablemente costoso en términos de rendimiento y uso de la memoria.
+#### Diagrama:
+![3](https://user-images.githubusercontent.com/38145376/42289342-8b6ab1ce-7f84-11e8-9cc5-f562798d893f.png)
